@@ -1,3 +1,4 @@
+//finding out size of memory taken by data types
 #include <stdio.h>
 int main(int argc, char const *argv[])
 {
