@@ -1,3 +1,4 @@
+//distibution of prizes to students who have passes in subject
 #include <stdio.h>
 
 int main() {
