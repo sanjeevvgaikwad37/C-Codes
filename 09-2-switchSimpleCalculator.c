@@ -1,3 +1,4 @@
+//simple airthematic calculator by switch statement
 #include <stdio.h>
 
 int main() {
