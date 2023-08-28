@@ -1,3 +1,4 @@
+//substraction of 2 numbers from user
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
