@@ -1,4 +1,5 @@
 
+//multiplication table for any integer number input by user 
 #include <stdio.h>
 
 int main() {
